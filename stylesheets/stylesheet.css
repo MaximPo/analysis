@@ -299,6 +299,51 @@ Full-Width Styles
   border-bottom-right-radius: 2px;
 }
 
+#forkme_banner9 {
+  display: block;
+  position: absolute;
+  top:0;
+  right: 165px;
+  z-index: 20;
+  padding: 10px 75px 10px 10px;
+  color: #fff;
+  background: url('../images/blacktocat.png') #0090ff no-repeat 95% 50%;
+  font-weight: 700;
+  box-shadow: 0 0 10px rgba(0,0,0,.5);
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+}
+
+#forkme_banner7 {
+  display: block;
+  position: absolute;
+  top:0;
+  right: 165px;
+  z-index: 20;
+  padding: 10px 75px 10px 10px;
+  color: #fff;
+  background: url('../images/blacktocat.png') #0090ff no-repeat 95% 50%;
+  font-weight: 700;
+  box-shadow: 0 0 10px rgba(0,0,0,.5);
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+}
+
+#forkme_banner5 {
+  display: block;
+  position: absolute;
+  top:0;
+  right: 165px;
+  z-index: 20;
+  padding: 10px 75px 10px 10px;
+  color: #fff;
+  background: url('../images/blacktocat.png') #0090ff no-repeat 95% 50%;
+  font-weight: 700;
+  box-shadow: 0 0 10px rgba(0,0,0,.5);
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+}
+
 #forkme_banner2{
   display: block;
   position: absolute;
@@ -314,11 +359,56 @@ Full-Width Styles
   border-bottom-right-radius: 2px;
 }
 
+#forkme_banner10{
+  display: block;
+  position: absolute;
+  top:0;
+  right: 320px;
+  z-index: 20;
+  padding: 10px 50px 10px 10px;
+  color: #fff;
+  background: url('../images/blacktocat.png') #0090ff no-repeat 95% 50%;
+  font-weight: 700;
+  box-shadow: 0 0 10px rgba(0,0,0,.5);
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+}
+
+#forkme_banner6{
+  display: block;
+  position: absolute;
+  top:0;
+  right: 320px;
+  z-index: 20;
+  padding: 10px 50px 10px 10px;
+  color: #fff;
+  background: url('../images/blacktocat.png') #0090ff no-repeat 95% 50%;
+  font-weight: 700;
+  box-shadow: 0 0 10px rgba(0,0,0,.5);
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+}
+
 #forkme_banner4{
   display: block;
   position: absolute;
   top:0;
   right: 325px;
+  z-index: 20;
+  padding: 10px 50px 10px 10px;
+  color: #fff;
+  background: url('../images/blacktocat.png') #0090ff no-repeat 95% 50%;
+  font-weight: 700;
+  box-shadow: 0 0 10px rgba(0,0,0,.5);
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+}
+
+#forkme_banner8{
+  display: block;
+  position: absolute;
+  top:0;
+  right: 310px;
   z-index: 20;
   padding: 10px 50px 10px 10px;
   color: #fff;
